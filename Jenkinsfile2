@@ -16,8 +16,6 @@ node {
 Java Home''', cc: '', from: '', replyTo: '', subject: 'Pipeline Demo', to: 'hari.kammana@gmail.com'
 
 
-test
-
 
     }
 }
